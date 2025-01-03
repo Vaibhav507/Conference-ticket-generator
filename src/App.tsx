@@ -2,23 +2,8 @@
 
   //<!-- Form starts -->
   
-  
-  
-  
-  
-  
   //Drag and drop or click to upload
   //Upload your photo (JPG or PNG, max size: 500KB).
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   //<!-- Form ends -->
   
@@ -58,7 +43,7 @@ function App() {
           <label htmlFor="" className="text-[20px]">GitHub Username</label>
           <input type="text" placeholder="@yourusername" />
         </div>
-        <button className="bg-[--Orange-700] p-3 rounded-lg">Generate My Ticket</button>
+        
       </form>
     </div>
     </>
